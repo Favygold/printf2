@@ -1,15 +1,11 @@
-Creating our printf function
-This repository includes our version of the printf function, the basic and main functions. Here we will apply the knowledge that we have acquired during the learning of the programming language C.
-This project is requested by Holberton School.
-Task
-Write a function that produces output according to a format.
-c
-s
-%
-Handle the following conversion specifiers:
-d
-i
-Create a man page for your function.
-Authors
-Favour idikibiebuma
-Adeyemi Misturah
+# Printf()
+A project on printf function created for ALX software engineering school.
+
+## Rebuilding the standard printf function in C.
+This printf returns the number of characters printed.  
+
+# AUTHORS
+FAVOUR  IDIKIBIEBUMA -adunola142@gmail.com
+ADEYEMI  MISTURAH -
+
+
